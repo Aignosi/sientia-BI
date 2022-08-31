@@ -3,7 +3,7 @@ Business Iintelligent solution that leverage data driven insights and decision m
 
 # How to install and run
 
-  1. Unzip the files in a folder
+  1. Unzip the files from https://github.com/Aignosi/sientia-BI/blob/main/Metabase-Airflow.zip
   2. The unzipped documents have the docker files and also the iris data set that will be used as an example
   3. 
   
