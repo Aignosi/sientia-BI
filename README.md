@@ -13,3 +13,4 @@ Business Iintelligent solution that leverage data driven insights and decision m
   
   1. Configure Metabase connection to the Postgree database as shown 
   
+(docs/images/metabase-product-screenshot.svg)
