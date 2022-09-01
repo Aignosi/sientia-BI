@@ -4,17 +4,22 @@ Business Iintelligent solution that leverage data driven insights and decision m
 # How to install and run
 
   1. Install Docker desktop version [link](https://www.docker.com/products/docker-desktop/)
+  
   2. Run docker desktop
-  4. Unzip the *Metabase-Airflow.zip* file in the root folder of the repo (the unzipped documents have the docker files and also the iris data set that will be used as an example)
-  5. Open your terminal command in the folder where you unzipped the files from *Metabase-Airflow.zip*
-  6. Run the following command
+  
+  3. Unzip the *Metabase-Airflow.zip* file in the root folder of the repo (the unzipped documents have the docker files and also the iris data set that will be used as an example)
+  
+  4. Open your terminal command in the folder where you unzipped the files from *Metabase-Airflow.zip*
+  
+  5. Run the following command
   
   ```
   docker compose up
   ```
   
-  7. Wait for the long installation process
-  8. Open [Minio](https://min.io/) via localhost at:
+  6. Wait for the long installation process
+  
+  7. Open [Minio](https://min.io/) via localhost at:
   
   ```
   http://localhost:9001/
@@ -23,9 +28,18 @@ Business Iintelligent solution that leverage data driven insights and decision m
   pass: minioadmin
   ```
 
-  9. In the Bucket tab, vceate buckets **curated** and **landing** ![Minio bucket creation](/figures/MicrosoftTeams-image%20(1).png)
-  10. Upload the data files from this repo (*iris.csv* and *iris2.csv*) to the **landing** bucket that you have just created 
-  11. 
+  8. In the Bucket tab, vceate buckets **curated** and **landing** ![Minio bucket creation](/figures/MicrosoftTeams-image%20(1).png)
+  
+  9. Upload the data files from this repo (*iris-1.csv* and *iris-2.csv*) to the **landing** bucket that you have just created 
+  
+  10. Now open [Airflow](https://airflow.apache.org/) web page at:
+  
+   ```
+  http://localhost:8080/
+  
+  user: airflow
+  pass: airlfow
+  ```
   
   
   # Accessing and configuring the applications
