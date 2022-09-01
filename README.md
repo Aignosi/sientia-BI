@@ -8,7 +8,8 @@ Sientia BI is our Business Iintelligent solution that leverage data driven insig
 
 Is we are starting our company, we are still experimenting how our products will look like and what they can do. So, in order to make that possible, we are using open source tools, so that out tech stack can be structured rapidly.
 
-See our stack overview (initial proposal) for Sientia-BI:
+See our stack overview (initial proposal) for Sientia-BI: 
+![sientia_stack](/figures/Screen%20Shot%202022-09-01%20at%2017.00.55.png)
 
 
 ### Goal of the MVP
