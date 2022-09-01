@@ -43,6 +43,16 @@ Business Iintelligent solution that leverage data driven insights and decision m
   
   11. Run the airflow as the figure below is showing: ![airflow_picture](/figures/MicrosoftTeams-image%20(2).png)
   
+  12. Open the [Metabase](https://www.metabase.com/) web page at:
+
+  ```
+  http://localhost:3000/
+ 
+  ```
+  13. Configure Metabase's connection with Postgree DB, as shonw below:
+  ![metabase_picture](/figures/MicrosoftTeams-image%20(3).png)
+
+
   # Accessing and configuring the applications
   
   1. Configure Metabase connection to the Postgree database as shown 
