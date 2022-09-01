@@ -8,9 +8,10 @@ Business Iintelligent solution that leverage data driven insights and decision m
   4. Unzip the *Metabase-Airflow.zip* file in the root folder of the repo (the unzipped documents have the docker files and also the iris data set that will be used as an example)
   5. Open your terminal command in the folder where you unzipped the files from *Metabase-Airflow.zip*
   6. Run the following command
-  '''
+  
+  ```
   docker compose up
-  '''
+  ```
   
   8. Create buckets **curated** and **landing** 
   9. 
