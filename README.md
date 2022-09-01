@@ -34,7 +34,7 @@ Business Iintelligent solution that leverage data driven insights and decision m
   
   10. Now open [Airflow](https://airflow.apache.org/) web page at:
   
-   ```
+  ```
   http://localhost:8080/
   
   user: airflow
