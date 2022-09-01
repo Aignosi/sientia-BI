@@ -13,9 +13,19 @@ Business Iintelligent solution that leverage data driven insights and decision m
   docker compose up
   ```
   
-  8. Create buckets **curated** and **landing** 
-  9. 
-  10. 
+  7. Wait for the long installation process
+  8. Open [Minio](https://min.io/) via localhost at:
+  
+  ```
+  http://localhost:9001/
+  
+  user: minioadmin
+  pass: minioadmin
+  ```
+
+  10. Create buckets **curated** and **landing** 
+  11. 
+  12. 
   
   
   # Accessing and configuring the applications
