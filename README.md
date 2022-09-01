@@ -1,5 +1,19 @@
 # Sientia-BI
-Business Iintelligent solution that leverage data driven insights and decision making in OT environments 
+
+Sientia is Aignosi's Data & Analytics Product suite.
+
+Sientia BI is our Business Iintelligent solution that leverage data driven insights and decision making in OT environments.
+
+# Sientia-BI MVP
+
+Is we are starting our company, we are still experimenting how our products will look like and what they can do. So, in order to make that possible, we are using open source tools, so that out tech stack can be structured rapidly.
+
+See our stack overview (initial proposal) for Sientia-BI:
+
+
+### Goal of the MVP
+
+Run Sientia-BI and create a demo version, so that we can show to our early adopters and investors its potential.
 
 # How to install and run
 
@@ -51,11 +65,4 @@ Business Iintelligent solution that leverage data driven insights and decision m
   ```
   13. Configure Metabase's connection with Postgree DB, as shonw below:
   ![metabase_picture](/figures/MicrosoftTeams-image%20(3).png)
-
-
-  # Accessing and configuring the applications
-  
-  1. Configure Metabase connection to the Postgree database as shown 
-  
-
 
