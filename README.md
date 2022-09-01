@@ -41,7 +41,7 @@ Business Iintelligent solution that leverage data driven insights and decision m
   pass: airlfow
   ```
   
-  11. Run the airflow as the figure below is showing: 
+  11. Run the airflow as the figure below is showing: ![airflow_picture](/figures/MicrosoftTeams-image%20(2).png)
   
   # Accessing and configuring the applications
   
