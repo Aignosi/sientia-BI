@@ -23,7 +23,7 @@ Business Iintelligent solution that leverage data driven insights and decision m
   pass: minioadmin
   ```
 
-  10. Create buckets **curated** and **landing** 
+  10. Create buckets **curated** and **landing** at ![Minio](/figures/MicrosoftTeams-image%20(1).png)
   11. 
   12. 
   
@@ -33,4 +33,4 @@ Business Iintelligent solution that leverage data driven insights and decision m
   1. Configure Metabase connection to the Postgree database as shown 
   
 
-![Minio](/figures/MicrosoftTeams-image%20(1).png)
+
