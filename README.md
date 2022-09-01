@@ -23,9 +23,9 @@ Business Iintelligent solution that leverage data driven insights and decision m
   pass: minioadmin
   ```
 
-  10. Create buckets **curated** and **landing** at ![Minio](/figures/MicrosoftTeams-image%20(1).png)
+  9. In the Bucket tab, vceate buckets **curated** and **landing** ![Minio bucket creation](/figures/MicrosoftTeams-image%20(1).png)
+  10. Upload the data files from this repo (*iris.csv* and *iris2.csv*) to the **landing** bucket that you have just created 
   11. 
-  12. 
   
   
   # Accessing and configuring the applications
