@@ -28,7 +28,7 @@ Business Iintelligent solution that leverage data driven insights and decision m
   pass: minioadmin
   ```
 
-  8. In the Bucket tab, vceate buckets **curated** and **landing** ![Minio bucket creation](/figures/MicrosoftTeams-image%20(1).png)
+  8. In the Bucket tab, ceate buckets **curated** and **landing** ![Minio bucket creation](/figures/MicrosoftTeams-image%20(1).png)
   
   9. Upload the data files from this repo (*iris-1.csv* and *iris-2.csv*) to the **landing** bucket that you have just created 
   
@@ -41,6 +41,7 @@ Business Iintelligent solution that leverage data driven insights and decision m
   pass: airlfow
   ```
   
+  11. Run the airflow as the figure below is showing: 
   
   # Accessing and configuring the applications
   
